@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+
+# OS
+.DS_Store
+
+# Data / outputs
+data/
+outputs/
+*.log
+
+# Credentials
+*.pem
+*.key

@@ -1,0 +1,16 @@
+" ============================================================================
+" Netrw Directory Listing                                        (netrw v173)
+"   /Users/tiffanyhsu/Desktop/PostGrad/LSE-MY459-WT26/.git
+"   Sorted by      name
+"   Sort sequence: [\/]$,\<core\%(\.\d\+\)\=\>,\.h$,\.c$,\.cpp$,\~\=\*$,*,\.o$,\.obj$,\.info$,\.swp$,\.bak$,\~$
+"   Quick Help: <F1>:help  -:go up dir  D:delete  R:rename  s:sort-by  x:special
+" ==============================================================================
+../
+./
+hooks/
+info/
+objects/
+refs/
+HEAD
+config
+description
